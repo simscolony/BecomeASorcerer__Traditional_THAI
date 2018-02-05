@@ -1,0 +1,2 @@
+# BecomeASorcerer__Traditional_THAI
+BecomeASorcerer__Traditional_THAI
