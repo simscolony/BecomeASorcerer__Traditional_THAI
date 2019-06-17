@@ -1,5 +1,6 @@
 # BecomeASorcerer__Traditional_THAI
 
+https://triplis.github.io/mods/sorcerer.html
 # Become a Sorcerer 3.0: Specializations
 
 https://github.com/simcolony/BecomeASorcerer__Traditional_THAI
