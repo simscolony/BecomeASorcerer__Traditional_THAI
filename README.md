@@ -1,12 +1,13 @@
 # BecomeASorcerer__Traditional_THAI
-BecomeASorcerer__Traditional_THAI
-Become a Sorcerer 3.0: Specializations
+
+# Become a Sorcerer 3.0: Specializations
 
 https://github.com/simcolony/BecomeASorcerer__Traditional_THAI
 
 ![BecomeASorcerer__Traditional_THAI1](https://i.ytimg.com/vi/11zOPO44-8A/maxresdefault.jpg)
 ![BecomeASorcerer__Traditional_THAI2](http://thumbs.modthesims2.com/img/9/2/9/0/4/2/1/MTS_Triplis-1725232-banner-1.jpg)
 
+https://www.patreon.com/triplissims
 ------------------------------------------------
 Version 3.0: Specializations
 
