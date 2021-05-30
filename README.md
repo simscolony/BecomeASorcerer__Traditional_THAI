@@ -10,6 +10,7 @@
 | ------------- | ------------- |
 |BecomeASorcerer ตัวเล่น|[ดาวโหลดตัวเล่น](https://triplis.github.io/mods/sorcerer.html)|
 |แปลไทย BecomeASorcerer|[ตัวแปล BecomeASorcerer ภาษาไทย]()|
+|แปลไทย BecomeASorcerer Simssharefile |[ตัวแปล BecomeASorcerer ภาษาไทย]()|
 
 ![BecomeASorcerer__Traditional_THAI1](https://i.ytimg.com/vi/11zOPO44-8A/maxresdefault.jpg)
 ![BecomeASorcerer__Traditional_THAI2](http://thumbs.modthesims2.com/img/9/2/9/0/4/2/1/MTS_Triplis-1725232-banner-1.jpg)
@@ -19,7 +20,7 @@
 
 ![BecomeASorcerer__fb](https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.18169-9/27752464_870937056401032_5685584871932308140_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeH4YOW2RVlLzZ63luLrgO4TcEu9jjFEZ8xwS72OMURnzK3yGA7jZHmybNVzjoIVby0&_nc_ohc=c4OxEQ3ZIaIAX-kkanz&_nc_ht=scontent.fbkk10-1.fna&oh=08b85f5e23bb7eb7d8663f443c47453f&oe=60D78C4E)
 
-https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.18169-9/27540723_870937073067697_5719008184739086444_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEOF9bXpJXpVPUbaabEUEeN_Wj-DDKi9_f9aP4MMqL391cgjg2q8KxYp1hx7OZd6sc&_nc_ohc=wQ4dAEE8ExoAX9aXZ5w&_nc_ht=scontent.fbkk10-1.fna&oh=19e6903901c035924eb993fcf76b7aad&oe=60D76D6D
+![BecomeASorcerer__fb](https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.18169-9/27540723_870937073067697_5719008184739086444_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEOF9bXpJXpVPUbaabEUEeN_Wj-DDKi9_f9aP4MMqL391cgjg2q8KxYp1hx7OZd6sc&_nc_ohc=wQ4dAEE8ExoAX9aXZ5w&_nc_ht=scontent.fbkk10-1.fna&oh=19e6903901c035924eb993fcf76b7aad&oe=60D76D6D)
 
 
 # หากพบปัญหา แจ้งงานแปล
