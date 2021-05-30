@@ -1,10 +1,5 @@
 # BecomeASorcerer ภาษาไทย
-https://github.com/simcolony/BecomeASorcerer__Traditional_THAIษาไทย
-
-=======================================================
-โหลดไฟล์ MO
-https://triplis.github.io/mods/sorcerer.html
-https://www.patreon.com/triplissims
+แปลไทย
 
 | MOD   | Download |
 | ------------- | ------------- |
