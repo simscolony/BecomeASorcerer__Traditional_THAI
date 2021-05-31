@@ -1,10 +1,5 @@
-# BecomeASorcerer ภาษาไทย
-แปลไทย
-
-
-## Become a Sorcerer  Latest: v4.0.2b
+# Become a Sorcerer  ภาษาไทย Latest: v4.0.2b
 ### ใช้งานได้บน เกมอัพเดท EA Patch, March 23, 2021
-
 
 | MOD   | Download |
 | ------------- | ------------- |
