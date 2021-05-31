@@ -9,7 +9,7 @@
 | MOD   | Download |
 | ------------- | ------------- |
 |BecomeASorcerer ตัวเล่น|[ดาวโหลดตัวเล่น](https://triplis.github.io/mods/sorcerer.html)|
-|แปลไทย BecomeASorcerer|[ตัวแปล BecomeASorcerer ภาษาไทย]()|
+|แปลไทย BecomeASorcerer|[ตัวแปล BecomeASorcerer ภาษาไทย](https://github.com/simscolony/BecomeASorcerer__Traditional_THAI/raw/master/%5BSIMSCOLONY%5DTriplis-Sorcerer_TH_V4.package)|
 
 
 ![BecomeASorcerer__Traditional_THAI1](https://i.ytimg.com/vi/11zOPO44-8A/maxresdefault.jpg)
