@@ -6,7 +6,10 @@
 |BecomeASorcerer ตัวเล่น|[ดาวโหลดตัวเล่น](https://triplis.github.io/mods/sorcerer.html)|
 |แปลไทย BecomeASorcerer|[ตัวแปล BecomeASorcerer ภาษาไทย](https://github.com/simscolony/BecomeASorcerer__Traditional_THAI/raw/master/%5BSIMSCOLONY%5DTriplis-Sorcerer_TH_V4.package)|
 
+# วิธีการเล่น
+https://www.youtube.com/watch?v=YYleYsJuYSk
 
+# SS
 ![BecomeASorcerer__Traditional_THAI1](https://i.ytimg.com/vi/11zOPO44-8A/maxresdefault.jpg)
 ![BecomeASorcerer__Traditional_THAI2](http://thumbs.modthesims2.com/img/9/2/9/0/4/2/1/MTS_Triplis-1725232-banner-1.jpg)
 ![BecomeASorcerer__fb](https://scontent.fbkk10-1.fna.fbcdn.net/v/t31.18172-8/27710181_870936963067708_4172465151105924559_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeFJGs5vPbeGdObajGj5xznbNOY_9pUlbOM05j_2lSVs49-zEejOUibO0rcTPy3DU8M&_nc_ohc=4outRnEDlKgAX-i6_9k&_nc_ht=scontent.fbkk10-1.fna&oh=c07d682ef0e7d74388a35e6d3d655d88&oe=60D801BC)
