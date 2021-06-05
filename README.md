@@ -9,6 +9,10 @@
 # วิธีการเล่น
 https://www.youtube.com/watch?v=YYleYsJuYSk
 
+ทำการเข้าโหมดสร้างและเลือกซื้อ Suspicious Laum of clay ให้ซิมส์ที่ต้องการกดเลือกรับพลัง
+![BecomeASorcerer](https://i.ytimg.com/vi/HUHl1hs7YYY/maxresdefault.jpg)
+
+
 # SS
 ![BecomeASorcerer__Traditional_THAI1](https://i.ytimg.com/vi/11zOPO44-8A/maxresdefault.jpg)
 ![BecomeASorcerer__Traditional_THAI2](http://thumbs.modthesims2.com/img/9/2/9/0/4/2/1/MTS_Triplis-1725232-banner-1.jpg)
