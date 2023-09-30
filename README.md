@@ -1,5 +1,5 @@
-# Become a Sorcerer  ภาษาไทย Latest: v4.0.2b
-### ใช้งานได้บน เกมอัพเดท EA Patch, March 23, 2021
+# Become a Sorcerer 4.0: Reality Arts  ภาษาไทย Latest: v4.0.3e
+### ใช้งานได้บน เกมอัพเดท July 18, 2023
 
 | MOD   | Download |
 | ------------- | ------------- |
@@ -11,11 +11,6 @@ https://www.youtube.com/watch?v=YYleYsJuYSk
 
 ทำการเข้าโหมดสร้างและเลือกซื้อ Suspicious Laum of clay ให้ซิมส์ที่ต้องการกดเลือกรับพลัง
 ![BecomeASorcerer](https://i.ytimg.com/vi/HUHl1hs7YYY/maxresdefault.jpg)
-
-
-
-# SS
-
 
 
 # หากพบปัญหา แจ้งงานแปล
